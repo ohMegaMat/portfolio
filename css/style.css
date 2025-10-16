@@ -2450,7 +2450,7 @@ h6 {
 /* Start About Us Area css
 ============================================================================================ */
 .about_bg {
-  background: url(../img/portfolio-bg.png) no-repeat center center/cover;
+  background: url(../img/portfolio-bg.png) no-repeat bottom center/contain;
   height: 750px;
 }
 
